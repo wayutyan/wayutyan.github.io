@@ -87,14 +87,14 @@ a:hover {
 
 .news {
     background-color: #efefef;
-    padding: 6px 38px;
+    padding: 6px 0;
     text-align: left;
     font-size: 18px;
 }
 
 .red-text {
     color: #ff0000;
-    margin-left: 64px;
+    margin-left: 128px;
 }
 
 .kyoutyou {
@@ -105,4 +105,10 @@ a:hover {
     color: black;
     font-size: 48px;
     text-align: center;
+}
+
+.news2 {
+    padding: 6px 0;
+    text-align: left;
+    font-size: 18px;
 }
