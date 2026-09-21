@@ -80,7 +80,7 @@ a:hover {
 }
 
 .main {
-    margin-left: 128px !important;
+    margin-left: 10% !important;
 }
 
 .news {
@@ -92,7 +92,7 @@ a:hover {
 
 .red-text {
     color: #ff0000;
-    margin-left: 128px;
+    padding-left: 10%;
 }
 
 .kyoutyou {
@@ -113,4 +113,11 @@ a:hover {
 
 .copyright {
     font-size: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    .youtube-video {
+        width: 100%;
+        height: auto;
+    }
 }
