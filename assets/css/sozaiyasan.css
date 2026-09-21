@@ -1,0 +1,36 @@
+.page-title {
+    color: black;
+    font-size: 48px;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    font-family: Meiryo, system-ui;
+    font-size: 20px;
+}
+
+.main {
+    text-align: center;
+}
+
+a {
+    color: #0000ff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff0000;
+    text-decoration: underline;
+}
+
+.footer {
+    background-color: #efefef;
+    padding: 26px 28px;
+    text-align: center;
+}
+
+.red-text {
+    color: #ff0000;
+    font-size: 30px;
+}
