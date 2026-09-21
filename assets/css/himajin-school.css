@@ -75,7 +75,8 @@ a:hover {
     color: black;
     font-size: 48px;
     text-align: center;
-    border-top: 3px solid #0000ff;
+    border-top: 5px solid #009DDB;
+    margin-left: 15% !important;
 }
 
 .news2 {
