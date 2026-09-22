@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Meiryo, system-ui;
+    font-size: 20px;
+}
+
+.oya {
+    text-align: center;
+}
+
+.page-title {
+    color: black;
+    font-size: 48px;
+    text-align: center;
+}
+
+.timer {
+    font-weight: bold;
+}
+
+.number {
+    color: #ff0000;
+}
