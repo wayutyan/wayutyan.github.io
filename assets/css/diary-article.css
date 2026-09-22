@@ -89,3 +89,7 @@ hr {
 .green {
     background-color: #9FFF9A;
 }
+
+.table-A th, .table-A td, .table-A {
+    border: 1px solid;
+}
