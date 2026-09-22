@@ -38,3 +38,10 @@ a:hover {
 .copyright {
     font-size: 14px;
 }
+
+@media screen and (max-width:768px) {
+    .kotira {
+        width: 75%;
+        height: auto;
+    }
+}
