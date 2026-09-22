@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: Meiryo, system-ui;
     font-size: 20px;
+    background-color: #efefef;
 }
 
 .header {
@@ -16,6 +17,12 @@ body {
     font-size: 20px;
     color:#ffffff !important;
     text-decoration: none !important;
+}
+
+.main {
+    background-color: #ffffff;
+    padding: 5%;
+    width: fit-content;
 }
 
 a {
@@ -47,12 +54,19 @@ a:hover {
     text-align: center;
 }
 
+
+
 .copyright {
     font-size: 14px;
 }
 
 .footer {
-    background-color: #efefef;
+    background-color: #333333;
+    color: #ffffff;
     padding: 26px 28px;
     text-align: center;
+}
+
+hr {
+    margin-right: 10%;
 }

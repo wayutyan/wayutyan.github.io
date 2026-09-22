@@ -115,6 +115,10 @@ a:hover {
     font-size: 14px;
 }
 
+hr {
+    margin-right: 10%;
+}
+
 @media screen and (max-width: 768px) {
     .youtube-video {
         width: 100%;
