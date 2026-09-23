@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    font-family: Meiryo, system-ui;
+    font-size: 20px;
+}
+
+.header {
+    background-color: #0f6cd0;
+    padding: 2px 38px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-title-text {
+    font-size: 20px;
+    color:#ffffff !important;
+    text-decoration: none !important;
+}
+
+a {
+    color: #0000ff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff0000;
+    text-decoration: underline;
+}
+
+.main {
+    margin-left: 18%;
+    margin-right: 18%;
+}
+
+.red-text {
+    color: #ff0000;
+    padding-left: 10%;
+}
+
+.kyoutyou {
+    font-size: 24px;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 32px;
+    border-left: 5px solid #FFD221;
+    background-color: #FFFFD5;
+    padding-left: 10px;
+    color: #737373;
+}
+
+.copyright {
+    font-size: 14px;
+}
+
+.tiisaku {
+    font-size: 14px;
+}
+
+.footer {
+    background-color: #efefef;
+    color: #000000;
+    padding: 26px 28px;
+    text-align: center;
+}
+
+hr {
+    margin-right: 10%;
+}
+
+.yellow {
+    background-color: #FFF8AF;
+}
+
+.red {
+    background-color: #FFB2B2;
+}
+
+.blue {
+    background-color: #9EAFFF;
+}
+
+.green {
+    background-color: #9FFF9A;
+}
+
+.table-A th, .table-A td, .table-A {
+    border: 1px solid;
+}
