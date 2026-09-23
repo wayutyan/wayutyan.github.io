@@ -93,3 +93,8 @@ hr {
 .table-A th, .table-A td, .table-A {
     border: 1px solid;
 }
+
+.kuuran {
+    width: 100%;
+    height: 100px;
+}
