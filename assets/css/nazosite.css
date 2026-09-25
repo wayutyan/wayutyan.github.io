@@ -1,7 +1,7 @@
 .bg-image {
     background-image: url("/assets/images/support.jpg");
     width: 100vw;
-    height: 100vh;
+    height: fit-content;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
