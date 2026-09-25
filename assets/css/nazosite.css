@@ -1,3 +1,5 @@
 .bg-image {
     background-image: url("/assets/images/support.jpg");
+    width: fit-content;
+    height: auto;
 }
