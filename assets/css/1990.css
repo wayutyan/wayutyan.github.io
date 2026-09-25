@@ -1,0 +1,14 @@
+body {
+    background-image: url("/assets/images/wall.png");
+    font-size: 20px;
+    width: 40%;
+}
+
+.header {
+    padding: 2px 38px;
+}
+
+.footer {
+    text-align: center;
+    padding: 26px 28px;
+}
