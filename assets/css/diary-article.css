@@ -42,17 +42,19 @@ a:hover {
     font-size: 24px;
 }
 
-h1 {
+.title {
     color: black;
     font-size: 40px;
+    font-weight: bold;
 }
 
-h2 {
+.section {
     font-size: 32px;
     border-left: 5px solid #FFD221;
     background-color: #FFFFD5;
     padding-left: 10px;
     color: #737373;
+    font-weight: bold;
 }
 
 .copyright {
