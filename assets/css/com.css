@@ -19,3 +19,10 @@
     width: auto;
     height: 30px;
 }
+
+@media screen and (max-width: 768px) {
+    .logo {
+        width: 72%;
+        height: auto;
+    }
+}
