@@ -6,11 +6,12 @@
 }
 
 .content {
-    margin-right: 10%;
+    margin-right: 20%;
+    margin-left: 20%;
 }
 
 .itiran {
-    width: 75%;
+    width: 85%;
 }
 
 .kiji {
@@ -34,8 +35,8 @@
     text-decoration: underline !important;
 }
 
-.title-text {
-    font-size: 20px;
+.t {
+    font-size: 35px;
     border-bottom: 2px solid;
 }
 
