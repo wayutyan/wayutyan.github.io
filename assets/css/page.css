@@ -1,0 +1,44 @@
+.banner2 {
+    text-align: center;
+    font-size: 22px;
+    padding: 45px 45px;
+    display: block;
+}
+
+.content {
+    margin-right: 10%;
+}
+
+.itiran {
+    width: 75%;
+}
+
+.kiji {
+    width: 100%;
+    height: 90px;
+    background-color: #000000;
+    border-radius: 10px;
+    color: #ffffff;
+    padding-left: 5%;
+    padding-top: 3%;
+    margin: 1%;
+}
+
+.kiji a {
+    color: #ffffff !important;
+    text-decoration: none !important;
+}
+
+.kiji a:hover {
+    color: #ffffff;
+    text-decoration: underline !important;
+}
+
+.title-text {
+    font-size: 20px;
+    border-bottom: 2px solid;
+}
+
+.icon {
+    width: 25%;
+}

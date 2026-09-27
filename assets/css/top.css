@@ -1,0 +1,80 @@
+.oya {
+    display: flex;
+    gap: 20px;
+}
+
+.content{
+    width: 75%;
+}
+
+.sidebar {
+    width: 25%;
+    margin-right: 5%;
+}
+
+.icon {
+    padding-top: 15px;
+    max-width: 100%;
+}
+
+.card {
+    margin-top: 7%;
+    background-color: #E6E6E6;
+    border-radius: 15px;
+    padding: 1px 15px;
+}
+
+.name {
+    border-bottom: 5px solid #6AD64C;
+    padding-bottom: 5px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.desc {
+    padding-top: 15px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.banner1 {
+    background-image: url(/assets/images/banner.jpg);
+    text-align: center;
+    font-size: 22px;
+    padding: 45px 45px;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+}
+
+.border {
+  border: 4px solid #00a0e9;
+  padding: 20px;
+  max-width: 100%;
+  border-radius: 15px;
+}
+
+.title {
+  color: #00a0e9;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 0 10px;
+}
+
+@media screen and (max-width: 768px) {
+    .oya {
+        flex-direction: column;
+    }
+
+    .content {
+        width: 100%;
+        margin: 16px;
+    }
+
+    .sidebar {
+        width: 100%;
+        margin: 16px;
+    }
+
+}
