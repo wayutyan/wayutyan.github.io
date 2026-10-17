@@ -1,0 +1,55 @@
+.header {
+    background-color: #41A1E8;
+    padding: 20px 15px;
+}
+
+.header2 {
+    background-color: #3778E8;
+    padding: 1px 15px;
+    color: #ffffff;
+}
+
+.header3 {
+    background-color: #3B3DE8;
+    padding: 1px 15px;
+    color: #ffffff;
+}
+
+.f {
+    color: #000000 !important;
+    text-decoration: none !important;
+}
+
+.f a:hover {
+    color: #000000 !important;
+    text-decoration: none !important;
+}
+
+.logo {
+    width: 23%;
+    height: auto;
+}
+
+.footer {
+    background-color: #efefef;
+    text-align: center;
+    padding: 25px 15px;
+    font-size: 14px;
+}
+
+.kuuhaku {
+    width: auto;
+    height: 30px;
+}
+
+.kuuhaku2 {
+    width: auto;
+    height: 250px;
+}
+
+@media screen and (max-width: 768px) {
+    .logo {
+        width: 72%;
+        height: auto;
+    }
+}
