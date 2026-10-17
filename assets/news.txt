@@ -1,0 +1,4 @@
+<fieldset class="border">
+            <legend class="title">ニュース</legend>
+            <p>本文</p>
+            </fieldset>

@@ -1,0 +1,48 @@
+body {
+    background-image: url("/assets/images/wall3.png");
+    font-size: 20px;
+    margin: 0;
+}
+
+.oya {
+    width: 65%;
+    margin: 0 auto;
+    border: 1px solid;
+    background-color: #ffffff;
+    border-top: 5px solid;
+    border-bottom: 3px solid;
+}
+
+.header {
+    background-color: #666666;
+    color: #ffffff;
+    text-align: center;
+    padding: 1px 5px;
+    margin: 1px;
+    border: 2px solid #333333;
+}
+
+.main {
+    display: flex;
+    gap: 20px;
+}
+
+.footer {
+    background-color: #D4FFDA;
+    padding: 1px 15px;
+    text-align: center;
+    border: 1px solid;
+    margin: 1px;
+}
+
+.sidebar {
+    background-color: #CFCFCF;
+    padding: 1px 5px;
+    width: 25%;
+}
+
+.content {
+    background-color: #ffffff;
+    padding: 1px 5px;
+    width: 75%;
+}

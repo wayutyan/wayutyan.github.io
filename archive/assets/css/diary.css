@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    font-family: Meiryo, system-ui;
+    font-size: 20px;
+}
+
+.header {
+    background-color: #0f6cd0;
+    padding: 2px 38px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-title-text {
+    font-size: 20px;
+    color:#ffffff !important;
+    text-decoration: none !important;
+}
+
+a {
+    color: #0000ff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff0000;
+    text-decoration: underline;
+}
+
+.footer {
+    background-color: #efefef;
+    padding: 26px 28px;
+    text-align: center;
+}
+
+.main {
+    margin-left: 10% !important;
+}
+
+.news {
+    background-color: #efefef;
+    padding: 6px 0;
+    text-align: left;
+    font-size: 18px;
+}
+
+.red-text {
+    color: #ff0000;
+    padding-left: 10%;
+}
+
+.kyoutyou {
+    font-size: 24px;
+}
+
+.page-title {
+    color: black;
+    font-size: 48px;
+    text-align: center;
+}
+
+.news2 {
+    padding: 6px 0;
+    text-align: left;
+    font-size: 18px;
+}
+
+.copyright {
+    font-size: 14px;
+}
+
+hr {
+    margin-right: 10%;
+}
+
+.itiran {
+    width: 75%;
+}
+
+.kiji {
+    width: 100%;
+    height: 90px;
+    background-color: #000000;
+    border-radius: 10px;
+    color: #ffffff;
+    padding-left: 5%;
+    padding-top: 3%;
+    margin: 1%;
+}
+
+.kiji a {
+    color: #ffffff !important;
+    text-decoration: none !important;
+}
+
+.kiji a:hover {
+    color: #ffffff;
+    text-decoration: underline !important;
+}
+
+.kuuran {
+    width: 100%;
+    height: 100px;
+}
+
+.oya {
+    display: flex;
+    gap: 20px;
+}
+
+.main {
+    width: 70%;
+}
+
+.side {
+    width: 30%;
+}
+
+@media screen and (max-width: 768px) {
+    .youtube-video {
+        width: 100%;
+        height: auto;
+    }
+}

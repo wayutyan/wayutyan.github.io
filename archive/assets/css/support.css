@@ -1,0 +1,71 @@
+.header {
+    background-color: #ffffff;
+    color: #454545;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+    font-family: Meiryo, system-ui;
+    font-size: 20px;
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: flex-start;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #454545;
+    white-space: nowrap;
+}
+
+.nav a:hover {
+    opacity: 0.7;
+}
+
+.item {
+    padding: 5px;
+}
+
+.test {
+    display: flex;
+}
+
+.logo img {
+    border-right: 5px solid #454545;
+    padding-right: 10px;
+}
+
+.ookiku {
+    font-size: 24px;
+}
+
+.oya {
+    margin: 64px;
+}
+
+.banner {
+    background-color: #346BC6;
+    color: #ffffff;
+    padding: 1px 50px;
+}
+
+.title-text {
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+}
+
+.footer {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 26px 28px;
+    text-align: center;
+}
